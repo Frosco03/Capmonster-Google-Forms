@@ -1,0 +1,5 @@
+capmonster_python==3.2.0
+pandas==2.0.3
+Requests==2.32.3
+selenium==4.21.0
+webdriver_manager==4.0.1
