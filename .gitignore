@@ -1,0 +1,10 @@
+/.venv
+/.vscode
+/Book1.xlsx
+/build
+/dist
+/readme.txt
+/spreadsheeetTransfer.spec
+/spreadsheetTransfer.spec
+/__pycache__
+/config.ini
